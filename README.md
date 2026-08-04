@@ -1,4 +1,4 @@
-# catman
+# cat-man
 
 Constant-velocity **Kalman filter baseline** — adaptive trajectory prediction. This is the "simple fixed-model baseline" for the learned model to be benchmarked against.
 
